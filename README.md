@@ -6,6 +6,8 @@ In this Repository, I will design a digital clock:
 
 **STOPWATCH:**
 - Run time independently with Normal clock but with the same cycle;
-- Start/Resume or Stop by 2nd button;  \
+- Start/Resume or Stop by 2nd button;
+
+
 *I used LiquidCrystal_I2C library by **@joaopedrosgs**\ (https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library/blob/master/LiquidCrystal_I2C.h)\
 **Many thanks for this support**
